@@ -1,0 +1,31 @@
+.text-center {
+  text-align: center;
+}
+
+.separator {
+  margin: 2em 0;
+}
+
+.label {
+  font-size: 16px;
+  margin-right: 1em;
+}
+
+.form-control {
+  height: 30px;
+  border: 1px solid rgba(0, 0, 0, .3);
+}
+
+.form-group {
+  margin: 15px;
+  display: inline-block;
+}
+
+.btn {
+  padding: 6px 14px;
+  background-color: greenyellow;
+  border-radius: 5px;
+  border: 1px solid white;
+  color: white;
+  font-size: 16px;
+}

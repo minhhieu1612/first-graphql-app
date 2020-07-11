@@ -1,0 +1,24 @@
+.wrap-list-book {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.wrap-book {
+  /* background: #eaeaea; */
+  display: inline-block;
+  width: 50%;
+  padding: 1em;
+  -webkit-box-shadow: -14px 15px 14px -9px rgba(0, 0, 0, 0.38);
+  -moz-box-shadow: -14px 15px 14px -9px rgba(0, 0, 0, 0.38);
+  box-shadow: -14px 15px 14px -9px rgba(0, 0, 0, 0.38);
+}
+
+.book-name {
+  color: #111;
+  font-size: 1em;
+}
+
+.book-genre {
+  color: #323232;
+  font-size: 0.75em;
+}
